@@ -3,7 +3,7 @@
 Prototipo funcional de una tienda de ropa urbana, diseñado con el proceso de Diseño Centrado en el Usuario (ISO 9241-210) y evaluado con las heurísticas de Nielsen y WCAG 2.2 AA.
 
 ## Demo
-URL desplegada: _ https://eduardomartinez5955-hash.github.io/Molokog/_
+URL desplegada: https://eduardomartinez5955-hash.github.io/Molokog/
 
 ## Funciones
 - Catálogo con filtro por categoría
